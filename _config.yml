@@ -1,19 +1,4 @@
-name: Unspecified
-favicon: null
-layout_spectrum: 0.2915584046859294
 typography_spectrum: 0.7216238661203533
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#71A7FE'
@@ -25,4 +10,23 @@ color:
   lightness: 0.1687325716484338
   saturation: 0.4702076897956431
   rhythmicContrast: 0.7449406317900866
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2915584046859294
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: David Owen
+  email: david@thepcboss.com
+name: Our Site
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Family
 purpose: []
